@@ -4,8 +4,8 @@ Vercelのキャッシュ機能を試してみた。
 10秒に1回更新される時計的な何か。
 
 ```bash
-yarn
+pnpm i
 ```
 ```
-vercel
+vercel dev
 ```
